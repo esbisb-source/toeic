@@ -1,0 +1,1 @@
+{\n  "name": "toeic",\n  "version": "1.0.0",\n  "dependencies": {\n    "@anthropic-ai/sdk": "latest",\n    "@slack/web-api": "latest"\n  }\n}
